@@ -1,2 +1,5 @@
 # Hello-World
-Testing git hub connect from my computer
+
+My First Git hub repo
+
+I love my #self and :pizza:, and  :dancer:.
